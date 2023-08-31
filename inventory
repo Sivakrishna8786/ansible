@@ -1,29 +1,3 @@
 [mongodb]
 
 roboshop-us-dev-db-mongodb-01.devopslearning.online
-roboshop-us-dev-db-mongodb-01.devopslearning.online
-roboshop-us-dev-db-mongodb-02.devopslearning.online
-roboshop-us-dev-db-mongodb-01.devopslearning.online
-
-[mysql]
-roboshop-us-dev-app-mysql-01.devopslearning.online
-roboshop-us-dev-app-mysql-02.devopslearning.online
-roboshop-us-dev-app-mysql-03.devopslearning.online
-
-[app]
-roboshop-us-dev-app-cart-01.devopslearning.online
-roboshop-us-dev-app-cart-02.devopslearning.online
-roboshop-us-dev-app-cart-03.devopslearning.online
-
-[user]
-roboshop-us-dev-app-user-01.devopslearning.online
-roboshop-us-dev-app-user-02.devopslearning.online
-roboshop-us-dev-app-user-03.devopslearning.online
-
-[db: childern]
-mongodb
-mysql
-
-[app: childern]
-cart
-user
