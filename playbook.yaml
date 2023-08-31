@@ -1,7 +1,7 @@
 # playbook is list of places, always should start with -
 - name: ping the mode
   hosts: mongodb
-  #this is list of tasks\modules
+  #this is list of tasks/modules/collections
   tasks: 
   - name: pinging the server
     # this is the map
