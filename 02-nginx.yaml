@@ -3,7 +3,7 @@
   become: yes # this will give root access (sudo access)
   tasks:
   - name: Install nginx
-    ansible.bulitin.yum:
+    ansible.builtin.yum:
       name: nginx
       state: Installed
   - name: start nginx
