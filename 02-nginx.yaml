@@ -2,7 +2,7 @@
   hosts: mongodb
   tasks: 
   become: yes # this will give root access (sudo access)
-  - name: install nginx
+  - name: Install nginx
     ansible.bulitin.yum:
       name: nginx
       state: Installed
