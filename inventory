@@ -1,6 +1,9 @@
 [mongodb]
+
+roboshop-us-dev-db-mongodb-01.devopslearning.online
 roboshop-us-dev-db-mongodb-01.devopslearning.online
 roboshop-us-dev-db-mongodb-02.devopslearning.online
+roboshop-us-dev-db-mongodb-01.devopslearning.online
 
 [mysql]
 roboshop-us-dev-app-mysql-01.devopslearning.online

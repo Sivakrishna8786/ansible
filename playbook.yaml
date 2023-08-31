@@ -1,0 +1,9 @@
+# playbook yaml
+
+name: ping the mode
+hosts: mongodb
+#this is list of tasks\modules
+tasks: 
+ - name: pinging the server
+    # this is the mapo
+    ansible.bulitin.ping:
