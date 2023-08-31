@@ -5,5 +5,5 @@ hosts: mongodb
 #this is list of tasks\modules
 tasks: 
  - name: pinging the server
-    # this is the mapo
+    # this is the map
     ansible.bulitin.ping:
